@@ -1,0 +1,25 @@
+{
+    "title": "h5p-svelte",
+    "description": "Example H5P content type for Svelte",
+    "majorVersion": 1,
+    "minorVersion": 0,
+    "patchVersion": 7,
+    "runnable": 1,
+    "author": "mbernauer-cw",
+    "license": "MIT",
+    "machineName": "H5P.Svelte",
+    "embedTypes": [
+      "iframe"
+    ],
+    "preloadedJs": [
+      {
+        "path": "out.js"
+      }
+    ],
+    "preloadedCss": [
+      {
+        "path": "out.css"
+      }
+    ]
+  }
+  

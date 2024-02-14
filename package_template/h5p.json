@@ -1,0 +1,13 @@
+{
+    "title": "h5p-svelte",
+    "mainLibrary": "H5P.Svelte",
+    "language": "und",
+    "preloadedDependencies": [
+        {
+            "machineName": "H5P.Svelte",
+            "majorVersion": 1,
+            "minorVersion": 0
+        }
+    ],
+    "embedTypes": ["div"]
+}

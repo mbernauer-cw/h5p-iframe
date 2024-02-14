@@ -1,0 +1,12 @@
+[
+    {
+        "label": "Text",
+        "importance": "high",
+        "name": "greeting",
+        "type": "text",
+        "widget": "textarea",
+        "placeholder": "Hello world",
+        "default": "Hello %username",
+        "description": "This is a textfield"
+    }
+]
